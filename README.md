@@ -1,7 +1,7 @@
 # Horiseon-Assignment-1
 Bootcamp Homework Assignment 1
 
-SEMANTIC HTML CHANGES
+- SEMANTIC HTML CHANGES -
 
 Comments were added to the beginning and end of different parts of the webpage for easier identification of each area
 
@@ -18,11 +18,16 @@ Side colum veritcal <div> was changed to an <aside>
 Images were given alt attributes to meet accssibility standards
 
 
-CSS STYLE SHEET CHANGES
+- CSS STYLE SHEET CHANGES -
 
 Redundant class styling code was removed and simplified to condense the stylesheet, cleanup the appearance, organize the style sheet in a logical structure
 
 Comments distinguishing which stlye is being applied to which area of the html document were provided for ease of use and organizational purposes
 
+
+  - SCREENSHOT - 
+  
+  
+  ![Screenshot](https://user-images.githubusercontent.com/73037339/148655502-3ea4423c-a189-455a-bbd0-2b63c7d32c01.png)
 
 
